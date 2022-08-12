@@ -1,0 +1,13 @@
+.containerHeader {
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.head {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 36px;
+}
